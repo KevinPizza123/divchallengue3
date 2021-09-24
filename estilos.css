@@ -1,0 +1,185 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.texto{
+    float: left;
+    width: 190px;
+    height: 350px;
+    margin: auto;
+    margin-top: 50px;
+    margin-left: 20px;
+    
+}
+.imagen{
+    height: 170px;
+    width: 150px;
+}
+.texto h6{
+    font-size: 20px;
+    padding: 5px;
+
+}
+.texto h1{
+    font-size: 15px;
+    padding: 5px;
+    
+}
+.texto p{
+    font-size: 20px;
+    display: block;
+    padding: 5px;
+
+}
+.contenedor {
+    width: 250px;
+    margin: 100px;
+    text-align: center;
+    padding-top: 50px;
+    left: 170px;
+    position: absolute;
+    top: -100px;
+    background-color: white;
+    
+}
+ h1{
+    font-size: 15px;
+    padding: 5px;
+    
+}
+.contenedor2 {
+    width: 250px;
+    margin: 100px;
+    text-align: center;
+    padding-top: 50px;
+    left: 500px;
+    position: absolute;
+    top: -100px;
+    background-color: white;
+    
+}
+.proyect{
+
+position: absolute;
+ top: 230px; 
+ left: 350px;
+}
+.imagen1{
+margin-left: 130px;
+margin-top: 290px;
+}
+.contenedor3 {
+    width: 250px;
+    margin: 100px;
+    text-align: center;
+    padding-top: 50px;
+    left: 450px;
+    position: absolute;
+    top: 140px;
+    background-color: white;
+}
+.contenedor4 {
+    width: 250px;
+    margin: 100px;
+    text-align: center;
+    padding-top: 50px;
+    left: 450px;
+    position: absolute;
+    top: 390px;
+    background-color: white;
+}
+.imagen2{
+    margin-left: 340px;
+    margin-top: 50px;
+    }
+    .contenedor5 {
+        width: 250px;
+        margin: 100px;
+        text-align: center;
+        padding-top: 50px;
+        left: 450px;
+        position: absolute;
+        top: 660px;
+        background-color: white;
+    }
+    .imagen3{
+        margin-left: 340px;
+        margin-top: 50px;
+        }
+/*Experiencias*/
+.contenedor6 {
+            width: 250px;
+            margin: 100px;
+            text-align: center;
+            padding-top: 50px;
+            left: -50px;
+            position: absolute;
+            top: 400px;
+            background-color: white;
+            
+        }
+        .expert{
+
+            position: absolute;
+            top: 460px; 
+            left: 50px;
+                           }
+/*Experiencias*/
+
+ .contenedor7 {
+            width: 250px;
+            margin: 100px;
+            text-align: center;
+            padding-top: 50px;
+            left: -50px;
+            position: absolute;
+            top: 1015px;
+            background-color: white;
+        }
+  .imagen4{
+    
+            margin-left: 10px;
+            margin-top: -90px;
+            }
+ 
+                .contenedor8 {
+                    width: 250px;
+                    margin: 100px;
+                    text-align: center;
+                    padding-top: 50px;
+                    left: -50px;
+                    position: absolute;
+                    top: 1370px;
+                    background-color: white;
+                }
+                .imagen5{
+                    margin-left: 10px;
+                    margin-top: 150px;
+                    }
+.hobi{
+
+position: absolute;
+top: 860px; 
+left: 50px;
+}
+.git{
+    position: absolute;
+    top: 1030px; 
+    left: 350px;
+}
+.imagengit{
+width: 600px;
+height: 500px;
+margin-top: -400px; 
+margin-left: 350px;
+}
+.creditos{
+    margin-bottom: 1.5em;
+    color:black;
+    font-family: var(--main_font-family);
+    font-size: 0.875em;
+    font-weight: 500;
+    text-align: center;
+}
